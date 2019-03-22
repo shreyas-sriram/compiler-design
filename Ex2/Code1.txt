@@ -1,0 +1,32 @@
+int main()
+{
+float a = 12.45 , b = 12E+45 ;
+char c = 'a' ;
+char d = "Hello" ;
+if ( a > b )
+printf("a is greater");
+}
+
+int main()
+{
+int i , c ;
+scanf("Enter number: ", &c);
+i = c ;
+for ( i  ; i <= 5 ; i = i + 1)
+{
+if ( i % 2 == 0 )
+printf("Even");
+}
+//Printing even numbers
+}
+
+/*This is a program
+to print numbrs from 0 to 5*/
+int main()
+{
+int i = 0 ;
+while( i <= 5 )
+{
+printf("%d", i );
+}
+}

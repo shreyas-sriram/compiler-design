@@ -1,0 +1,26 @@
+#Declaration
+int a=9, b1, number=10;
+float f1=4.5;
+
+#Assignment
+a=4;
+
+#Conditional
+if(a>b)
+a=3
+else
+b=3
+
+#Looping
+for(i=0;i<5;i=i+1)
+i=i*2
+
+#All together
+int a=0,i,b=67
+i=2
+for(i=0;i<5;i=i+1)
+for(i=0;i<5;i=i+1)
+i=i*2
+if(i>10)
+if(a<=b)
+a=i
