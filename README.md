@@ -1,5 +1,5 @@
-# Compiler-Design
-Compiler Design lab experiments using C, YACC and LEX tool
+# compiler-design
+Compiler Design lab experiments using C, YACC and LEX tool.
 
 Contents:
 
